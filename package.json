@@ -1,0 +1,24 @@
+{
+  "name": "deploy-node-heroku",
+  "version": "1.0.0",
+  "description": "Test Node Deployment on Heroku",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeem-shaikh/deploy-node-heroku.git"
+  },
+  "keywords": [
+    "Node",
+    "Heroku"
+  ],
+  "author": "Nadeem Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeem-shaikh/deploy-node-heroku/issues"
+  },
+  "homepage": "https://github.com/nadeem-shaikh/deploy-node-heroku#readme"
+}
